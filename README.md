@@ -2,7 +2,7 @@
 <h3 align="center">Software engineering student at GCES from Nepal</h3>
 
 
-<h4 align="center">📫 How to reach me </h4>**salipagurung@gmail.com**
+📫 How to reach me **salipagurung@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
