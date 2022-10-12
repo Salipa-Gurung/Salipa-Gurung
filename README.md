@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salipa Gurung</h1>
 <h3 align="center">Software engineering student at GCES from Nepal</h3>
 
-- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **salipagurung@gmail.com**
 
